@@ -12,3 +12,15 @@
 * Quick learner
 * Diligenct
 * Team playing
+
+Skills
+* HTML
+* CSS
+* Git/GitHub
+
+# Code Examples
+```
+body { color: black; }
+a { color: orange; }
+```
+
