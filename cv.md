@@ -6,3 +6,9 @@
 * E-mail: irina.ulasik@mail.ru
 * GitHub: IrinaUlasik
 
+# About me
+
+## My strengths:
+* Quick learner
+* Diligenct
+* Team playing
